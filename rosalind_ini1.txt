@@ -1,1 +1,1 @@
-Enter "import this" into your Python command line and see what happens.
+Enter it into your Python command line
